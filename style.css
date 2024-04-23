@@ -1,0 +1,62 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    width: 100%;
+}
+
+header ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    }
+    
+header ul li{
+        margin: 10px;
+    }
+    
+img{
+    width: 200px;
+}
+
+
+}
+
+h1{
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-size: 16px;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h5{
+    font-size: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contenedor{
+display: flex;
+flex-direction: row;
+width: 100%;
+margin: 10px 0 20px 0;
+}
+
+
+.caja{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#contactanos{
+    
+}
+
+
